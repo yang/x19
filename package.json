@@ -1,0 +1,17 @@
+{
+  "name": "64655ef1-cdd2-476e-bce9-de797f8c9e66",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@plasmicapp/cli": "^0.1.127",
+    "@plasmicapp/react-web": "^0.2.25",
+    "next": "10.0.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
